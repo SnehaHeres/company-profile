@@ -14,6 +14,13 @@ function Contact() {
         <p>Near Briton School</p>
         <p>Raipur – 493111</p>
         <p>Chhattisgarh</p>
+        <p>Phone: 9425575748</p>
+        <p>
+  Gmail:
+  <a href="mailto:premgupta21311@gmail.com" className="text-black-600">
+    premgupta21311@gmail.com
+  </a>
+</p>
 
       </div>
 
