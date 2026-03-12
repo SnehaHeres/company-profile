@@ -18,7 +18,7 @@ function Contact() {
         <p>
   Gmail:
   <a href="mailto:premgupta21311@gmail.com" className="text-black-600">
-    premgupta21311@gmail.com
+    premguptagupta21311@gmail.com
   </a>
 </p>
 

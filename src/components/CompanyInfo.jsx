@@ -9,7 +9,7 @@ Company Details
 </h2>
 
 <p><b>Company:</b> OM Enterprises</p>
-<p><b>GST:</b> 22BJBPG2955FZZN</p>
+<p><b>GST:</b> 22BJBPG2955F2ZN</p>
 <p><b>Owner:</b> Prem Chand Gupta</p>
 <p><b>Location:</b> Raipur, Chhattisgarh</p>
 
